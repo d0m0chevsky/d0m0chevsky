@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d0m0chevsky
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Unity/C#
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
